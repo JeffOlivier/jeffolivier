@@ -5,7 +5,7 @@ Software Engineer, Web
 ----------------------
 
 *   🌍  I'm based in Maine
-*   ✉️  You can contact me at [jeff@jeffolivier.com](mailto:jeff@jeffolivier.com)
+<!--*   ✉️  You can contact me at [jeff@jeffolivier.com](mailto:jeff@jeffolivier.com)--->
 *   🧠  I'm learning TypeScript and React Native
 
 
