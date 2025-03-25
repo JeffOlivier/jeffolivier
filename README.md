@@ -1,4 +1,4 @@
-![Blue Illustrated Technology General LinkedIn Banner](https://github.com/user-attachments/assets/0abb24ba-c82a-46c4-86ef-173b5da02e60)
+![Blue Illustrated Technology General LinkedIn Banner (1)](https://github.com/user-attachments/assets/397cb5ee-3c09-46f3-a826-b758a2f786c7)
 
 <!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeff Olivier
 ====================================================================================================================================
